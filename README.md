@@ -39,15 +39,15 @@ Answer:
         activity: [
             {
                 operation: "new comment",
-               time: "4"
+                time: "4"
             },
             {
                 operation: "ordered 2 items",
                 time: "20"
             },
-           {
-            operation: "ordered 1 item",
-            time: "30"
+            {
+                operation: "ordered 1 item",
+                time: "30"
             },
             {
                 operation: "sended message",
